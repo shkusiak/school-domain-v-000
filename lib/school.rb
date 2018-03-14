@@ -2,8 +2,9 @@
 
 class School
 
+  roster = []
   def initialize(school)
-      @schoool = School
+      @school = School
   end
 
 end
